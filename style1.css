@@ -1,0 +1,36 @@
+
+.form-div{
+    margin:50px auto 50px;
+    border: 1px solid #5488a8;
+    padding:25px 15px 10px 15px;
+    border-radius:5px;
+    font-size:14px;
+    font-family: 'Lora', serif;
+}
+.form-control{
+    font-size:14px;
+}
+.form-control:focus{
+    box-shadow: none;
+}
+.img{
+    margin-top:-25%;    
+    background: white;
+    padding:1%;
+}
+
+.btn{
+    font-size:14px;
+    padding:15px 0px 15px 0px;
+    background:#5488a8;
+
+}
+.fa-sign-in-alt{
+    margin-right: 7px;
+}
+.error{
+
+    background: red;
+    border: 1px solid #a94442;
+    color:red;
+}
